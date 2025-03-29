@@ -1,0 +1,12 @@
+socket
+os
+sys
+colorama
+curses
+pynput
+pyperclip
+threading
+time
+platform
+requests
+
